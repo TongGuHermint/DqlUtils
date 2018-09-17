@@ -1,14 +1,14 @@
-# DqlUtils
-=======================
+DqlUtils
+====================================================================
 Gradle:
 ```
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-dependencies {
-	  implementation 'com.github.TongGuHermint:DqlUtils:v1.0.0'
-}
+	dependencies {
+	        implementation 'com.github.TongGuHermint:DqlUtils:v1.0.0'
+	}
 ```
